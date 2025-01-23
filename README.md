@@ -3,11 +3,11 @@
 
 ## Project Overview
 
-This project explores global trends in life expectancy using a dataset containing over 200,000 health metrics records from countries worldwide. The dataset includes variables such as GDP, healthcare expenditures, schooling, mortality, and vaccination rates and spans several years. The project aims to uncover patterns and correlations influencing life expectancy and visualize key trends using tools such as MySQL, Excel, and Tableau Public.
+This project explores global trends in life expectancy using a dataset containing over 200,000 health metrics records from countries worldwide. The dataset includes variables such as GDP, healthcare expenditures, schooling, mortality, and vaccination rates and spans several years. The project aims to uncover patterns and correlations influencing life expectancy and visualize key trends using tools such as MySQL and  Excel.
 
 ## Objectives
 
-1. **Understand Life Expectancy Trends**: Analyze how life expectancy varies across different countries and over time.
+1. **Understand Life Expectancy Trends**: Analyze how life expectancy varies across countries.
 2. **Identify Key Factors**: Determine which factors (e.g., GDP, healthcare expenditure, schooling) correlate strongly with life expectancy.
 3. **Create Visualizations**: Develop impactful visualizations to highlight trends and insights.
 
@@ -17,7 +17,7 @@ This project explores global trends in life expectancy using a dataset containin
 
 1. **MySQL**: Data cleaning and exploratory data analysis (EDA).
 2. **Excel**: Initial analysis and simple visualizations.
-3. **Tableau Public**: Interactive dashboards and advanced visualizations.
+
 
 ---
 
@@ -47,30 +47,15 @@ Using MySQL, the following insights were uncovered:
 
 ---
 
-## Visualizations
+## Visualizations_Excel
 
-### 1. **Life Expectancy Over Time (Line Chart)**
-
-- **Objective**: Show trends in life expectancy for selected countries.
-- **Countries Selected**: Afghanistan, India, and Japan.
-- **Insights**:
-  - Afghanistan showed gradual improvements over time despite challenges.
-  - India exhibited steady growth, reflecting improved healthcare.
-  - Japan maintained consistently high life expectancy, demonstrating the benefits of advanced healthcare systems and infrastructure.
-
-### 2. **Geographic Heatmap**
-
-- **Objective**: Visualize life expectancy across countries on a global map.
-- **Insights**:
-  - Regions such as Sub-Saharan Africa had the lowest life expectancy.
-  - Europe and East Asia had the highest life expectancy, highlighting disparities.
-
-### 3. **Scatter Plot of Healthcare Expenditure vs. Life Expectancy**
-
-- **Objective**: Show the relationship between healthcare spending and life expectancy.
-- **Insights**:
-  - A strong positive correlation was observed.
-  - Outliers included countries with high expenditure but lower-than-expected life expectancy, indicating potential inefficiencies.
+### 
+  • Line Chart: Life Expectancy Trends (Afghanistan, India, Japan).
+	•	Heatmap: Life Expectancy by Country (2020).
+	•	Scatter Plots:
+	•	GDP vs. Life Expectancy.
+	•	Schooling vs. Life Expectancy.
+	•	Bar Chart: Developed vs. Developing Countries.
 
 ---
 
@@ -91,7 +76,7 @@ Using MySQL, the following insights were uncovered:
 
 ## Conclusion
 
-This project successfully demonstrated the power of data analytics and visualization in understanding global health trends. The findings provide valuable insights into how economic, educational, and healthcare factors influence life expectancy. The visualizations developed in Tableau Public compellingly represent these insights, making the data accessible and actionable.
+This project successfully demonstrated the power of data analytics and visualization in understanding global health trends. The findings provide valuable insights into how economic, educational, and healthcare factors influence life expectancy. The visualizations developed in Excel compellingly represent these insights, making the data accessible and actionable.
 
 
 ---
